@@ -65,7 +65,7 @@
   
   <div class="section">
     <p><strong>We sell the Best and Service the rest</strong></p>
-    <p>Proud distributor of Viking, Royal, elna, Roberts, and Miele.</p>
+    <p>Proud distributor of Viking, Riccar, elna, Simplicity, and Singer.</p>
     <p>Don Burdick started on Third Ave. at The Singer Store in 1957. Started his own business Burdick's Sewing and Vacuum Center in 1983 where we sell the best and service the rest. It is a family owned business. Now with wife, Joan and son, Darren. We sell Husqvarna, a Swedish company for sewing, embroidery and overlock machines up to 5 threads.</p>
     <p>We also carry White and Elna embroidery and overlock machines. In our vacuum cleaner line we have Royal, Panasonic, Miele and Eureka. We have a full line of sewing machine notions and vacuum supplies.</p>
     <p><strong>Our policy on repairs:</strong> 1 day service whenever possible. We offer free hands on sewing machine classes with the purchase of a machine. Classes are Wednesday and Saturday.</p>
